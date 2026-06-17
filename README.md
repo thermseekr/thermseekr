@@ -6,16 +6,16 @@ These modules were designed to run Tasmota and integrate with the Home Assitant 
 
 Here are links for the modules I use the most. This is a forever work in progress, so current modules may change and new ones will be added.
 
-![eumesmo-io-24v16ch](https://github.com/thermseekr/eumesmo-io-24v16ch)
-![eumesmo-poe-2rl](https://github.com/thermseekr/eumesmo-poe-2rl)
-![eumesmo-poe-4rl](https://github.com/thermseekr/eumesmo-poe-4rl)
-![eumesmo-brk-1ch](https://github.com/thermseekr/eumesmo-brk-1ch)
-![eumesmo-brk-8ch](https://github.com/thermseekr/eumesmo-brk-8ch)
-![eumesmo-rl-4ch8a](https://github.com/thermseekr/eumesmo-rl-4ch8a)
-![eumesmo-rl-4ch12a](https://github.com/thermseekr/eumesmo-rl-4ch12a)
-![eumesmo-rl-4ch12a-nc](https://github.com/thermseekr/eumesmo-rl-4ch12a-nc)
-![eumesmo-rl-8ch8a](https://github.com/thermseekr/eumesmo-rl-8ch8a)
-![eumesmo-8ch12a](https://github.com/thermseekr/eumesmo-8ch12a)
+[eumesmo-io-24v16ch](https://github.com/thermseekr/eumesmo-io-24v16ch)
+[eumesmo-poe-2rl](https://github.com/thermseekr/eumesmo-poe-2rl)
+[eumesmo-poe-4rl](https://github.com/thermseekr/eumesmo-poe-4rl)
+[eumesmo-brk-1ch](https://github.com/thermseekr/eumesmo-brk-1ch)
+[eumesmo-brk-8ch](https://github.com/thermseekr/eumesmo-brk-8ch)
+[eumesmo-rl-4ch8a](https://github.com/thermseekr/eumesmo-rl-4ch8a)
+[eumesmo-rl-4ch12a](https://github.com/thermseekr/eumesmo-rl-4ch12a)
+[eumesmo-rl-4ch12a-nc](https://github.com/thermseekr/eumesmo-rl-4ch12a-nc)
+[eumesmo-rl-8ch8a](https://github.com/thermseekr/eumesmo-rl-8ch8a)
+[eumesmo-8ch12a](https://github.com/thermseekr/eumesmo-8ch12a)
 
 If you find them useful, or if you have any suggestions on how to improve them, or ideas for new modules, please drop me a note.
 
