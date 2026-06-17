@@ -19,5 +19,5 @@ Here are links for the modules I use the most. This is a forever work in progres
 
 If you find them useful, or if you have any suggestions on how to improve them, or ideas for new modules, please drop me a note.
 
-Cheers.
+Cheers
 Tales/thermseeker
