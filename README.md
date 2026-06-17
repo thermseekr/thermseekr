@@ -15,7 +15,7 @@ Here are links for the modules I use the most. This is a forever work in progres
 [eumesmo-rl-4ch12a](https://github.com/thermseekr/eumesmo-rl-4ch12a)<br>
 [eumesmo-rl-4ch12a-nc](https://github.com/thermseekr/eumesmo-rl-4ch12a-nc)<br>
 [eumesmo-rl-8ch8a](https://github.com/thermseekr/eumesmo-rl-8ch8a)<br>
-[eumesmo-8ch12a](https://github.com/thermseekr/eumesmo-8ch12a)<br>
+[eumesmo-rl-8ch12a](https://github.com/thermseekr/eumesmo-rl-8ch12a)<br>
 
 If you find them useful, or if you have any suggestions on how to improve them, or ideas for new modules, please drop me a note.
 
