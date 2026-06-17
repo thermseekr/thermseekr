@@ -2,7 +2,7 @@
 
 Here you will find the **eumesmo** set of modules that I designed for the automation of my home. As the result was fairly good, I sucessfully applied them also at my workplace to automate lights, shades, floor heating, ventilation and whatever else we though would be nice to include in the automation system.
 
-These modules were designed to run Tasmota and integrate with the Home Assitant platform. They are powered by 24VDC, which is a standard in automation systems - where I built my whole carrer as an electronic engineer - or 802.3af PoE.
+These modules were designed to run Tasmota and integrate with the Home Assitant platform. They are powered by 24VDC, which is a standard in automation systems - where I built my whole carrer as an electric engineer - or 802.3af PoE.
 
 Here are links for the modules I use the most. This is a forever work in progress, so current modules may change and new ones will be added.
 
