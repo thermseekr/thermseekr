@@ -9,6 +9,7 @@ Here are links for the modules I use the most. This is a forever work in progres
 [eumesmo-io-24v16ch](https://github.com/thermseekr/eumesmo-io-24v16ch)<br>
 [eumesmo-poe-2rl](https://github.com/thermseekr/eumesmo-poe-2rl)<br>
 [eumesmo-poe-4rl](https://github.com/thermseekr/eumesmo-poe-4rl)<br>
+[eumesmo-010-16ch](https://github.com/thermseekr/eumesmo-010-16ch)<br>
 [eumesmo-brk-1ch](https://github.com/thermseekr/eumesmo-brk-1ch)<br>
 [eumesmo-brk-8ch](https://github.com/thermseekr/eumesmo-brk-8ch)<br>
 [eumesmo-rl-4ch8a](https://github.com/thermseekr/eumesmo-rl-4ch8a)<br>
